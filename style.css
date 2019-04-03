@@ -20,3 +20,11 @@ header{
     height: 900px;
     background-color: darkgreen;
 }
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+    
+}
